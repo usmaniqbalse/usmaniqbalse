@@ -9,7 +9,7 @@ I'm a passionate and results-oriented Software Solution Architect, Generative AI
 
 
 - **Skillset**
-  JavaScript, Python, Tableau Data Analytics, Generative AI, LLM's, RAG, React.js, Next.js, TypeScript, Angular, Node.js MEAN/MERN stack, Headless CMS, PHP, WordPress, Ionic, Cordova, Theme/Plugin Development, Payment Integrations, WooCommerce, Marketpress, HTML, CSS, Bootstrap, Less, Sass, jQuery Ajax, JSON, Web Services, Custom APIs, Microservices Architecture, RabbitMQ, Docker, Cloud management, Azure, AWS, Vercel, MongoDB, PostgreSQL, MySQL, and Hybrid Mobile App Development.
+ - JavaScript, Python, Tableau Data Analytics, Generative AI, LLM's, RAG, React.js, Next.js, TypeScript, Angular, Node.js MEAN/MERN stack, Headless CMS, PHP, WordPress, Ionic, Cordova, Theme/Plugin Development, Payment Integrations, WooCommerce, Marketpress, HTML, CSS, Bootstrap, Less, Sass, jQuery Ajax, JSON, Web Services, Custom APIs, Microservices Architecture, RabbitMQ, Docker, Cloud management, Azure, AWS, Vercel, MongoDB, PostgreSQL, MySQL, and Hybrid Mobile App Development.
  
 
 
