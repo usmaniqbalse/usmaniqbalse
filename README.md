@@ -6,6 +6,10 @@
 
 I'm a passionate and results-oriented Software Solution Architect, Generative AI Engineer, and Senior Full Stack Developer with over **10+ years of experience** in crafting innovative web and mobile solutions. I’m collaborating with government sectors and renowned brands, delivering web and mobile projects from start to finish. Alongside my work, I am actively participating in community meetups. 
 
+🌱 A passionate developer, disciplined to **learn, improve, and grow every day**.  
+💻 A code lover who happily loses track of time while building.  
+🚀 Eager to build new things in **AI**, quick to dive into fresh research papers and keep pace with the field’s rapid evolution.
+
 
 
 - **Skillset**
