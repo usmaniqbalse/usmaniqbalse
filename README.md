@@ -4,7 +4,7 @@
 
 **Location:** Dubai, UAE  
 
-I'm a passionate and results-oriented Software Solution Architect, Generative AI Engineer, and Senior Full Stack Developer with over **10+ years of experience** in crafting innovative web and mobile solutions. I’m collaborating with government sectors and renowned brands, delivering web and mobile projects from start to finish. Alongside my work, I am actively participating in community meetups. 
+I'm a passionate and results-oriented Software Solution Architect, Generative AI Engineer, and Senior Full Stack Developer with over **10+ years of experience** in crafting innovative AI, web, and mobile solutions. I’m collaborating with government sectors and renowned brands, delivering AI, web, and mobile projects from start to finish. Alongside my work, I am actively participating in community meetups. 
 
 🌱 A passionate developer, disciplined to **learn, improve, and grow every day**.  
 💻 A code lover who happily loses track of time while building.  
